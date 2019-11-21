@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="array_duration_investment">
+        <item>"1 year"</item>
+        <item>"2 year"</item>
+        <item>"5 year"</item>
+        <item>"10 year"</item>
+        <item>"20 year"</item>
+
+    </string-array>
+</resources>
+

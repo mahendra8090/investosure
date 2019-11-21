@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/colorgray">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/back"
+            android:padding="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="INSURANCE"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_gravity="center_vertical"
+
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Insurance?"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Insurance"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25dp"
+
+            android:text="-> Why life insurance is indispensable for your portfolio ?"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/colororange"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Why_life_insurance_is_indispensable_for_your_portfolio"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Some important terms:"
+            android:textStyle="bold"
+            android:textSize="25dp"
+       android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> IRDA"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/IRDA"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Premium"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Premium"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Sum Assured"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Sum_Assured"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Life Assured"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Life_Assured"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Policy Term"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Policy_Term"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Premium Payment term"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Premium_Payment_term"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Free look"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Free_look"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Things you should know before buying insurance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Insurance Regulatory and Development Authority of India  is an autonomous body set up under the Act, 1999 with a mission to protect the interests of policyholders and to regulate and develop the insurance industry in India.
+\nAs per the regulations, a free look period of 15/30 days is given to the customer during which he/she can cancel the policy without any charges (except stamp duty etc.) The life assured will also have to state the reason for cancelling the policy. Post this, he/she will be entitled to receive a refund of the first premium paid.
+\nInsurance firms are supposed to settle or reject (with proper reason) the case within 30 days of receiving the claim.
+\nIn case further investigation is required, the investigation must be finished within 90 days and the case must be settled within 30 days thereafter.
+\nIn case the insurance company couldn’t settle the case in due time, then they have to pay an interest rate 2% over the prevailing bank interest rates from the date of last claim documents.
+\nIn case the policy holder cancels the policy within the free look period, then the insurance company must credit the refund amount within 15 days of receiving the claim. Otherwise, the insurer will pay interest at 2% over the current bank rates on the claimed amount"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kinds of Life Insurance available in the market"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Term Insurance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Term_Insurance"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Term Insurance are"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Term_Insurance_are"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> ULIPs"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ULIPs"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Key Features of ULIPs"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Key_Features_of_ULIPs"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Endowment Policy"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Endowment_Policy"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> They are mainly of two types"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/They_are_mainly_of_two_types"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/additional_benefits"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Key Features of Endowment Policy"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Key_Features_of_Endowment_Policy"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Money Back Plans"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Money_Back_Plans"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-> Key Features of Money Back Plan"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/colororange"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Money_Back_Plans"
+            android:textSize="18dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"/>
+</LinearLayout>
+</LinearLayout>

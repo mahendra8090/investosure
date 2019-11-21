@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="username"
+    android:textColorHint="#ffffff"
+    android:layout_margin="16sp"
+    android:id="@+id/username_login"></EditText>
+
+        </LinearLayout>
+
+    />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_margin="16sp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:hint="password"
+        android:id="@+id/login_password"
+
+        android:textColorHint="#ffffff"/>
+        </LinearLayout>
+    </LinearLayout>
+    <android.support.v7.widget.CardView
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:id="@+id/button_login"
+        android:layout_marginTop="30sp"
+        android:layout_gravity="center"
+        app:cardBackgroundColor="@color/colororange"
+        app:cardCornerRadius="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="login"
+            android:textSize="20dp"
+            android:layout_marginTop="8dp"
+        android:textAlignment="center"
+
+
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            /></LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+</LinearLayout>

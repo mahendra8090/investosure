@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3A3A3C"
+
+
+    tools:context="com.example.hp.investosurestart.Login_Activity">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+<ImageView
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    android:layout_marginTop="8.9dp"
+    android:layout_marginLeft="14.193dp"
+
+    />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="skip login"
+          android:textColor="@color/colorWhite"
+          android:textSize="15dp"
+          android:textStyle="bold"
+          android:layout_alignParentRight="true"
+          android:layout_margin="20dp"
+          android:onClick="skip_login"
+         android:gravity="center_vertical"
+          />
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_marginLeft="43.87088dp"
+          android:layout_marginRight="43.87088dp"
+          android:layout_marginTop="68.78dp">
+<TextView
+    android:layout_width="match_parent"
+    android:textColor="@color/colororange"
+    android:layout_height="wrap_content"
+
+android:textAlignment="center"
+    android:textStyle="bold"
+    android:textSize="25dp"
+    android:text="INVESTOSURE">
+
+</TextView>
+
+      </LinearLayout>
+
+    />
+    <android.support.v7.widget.CardView
+        android:layout_width="86.45144dp"
+        android:layout_height="29.402464dp"
+
+        android:layout_marginLeft="83.22564dp"
+        android:layout_marginTop="152.26276dp"
+
+        app:cardBackgroundColor="@color/colororange"
+
+        >
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+        android:layout_margin="2dp"
+
+            android:layout_height="match_parent"
+            android:id="@+id/login_button"
+            android:onClick="button_login">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="login"
+          android:textSize="20dp"
+          android:textStyle="bold"
+          android:layout_gravity="center"
+          />
+
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="86.45144dp"
+        android:layout_height="29.402464dp"
+
+        android:layout_marginLeft="184.51576dp"
+        app:cardBackgroundColor="@color/colororange"
+        android:layout_marginTop="152.26276dp"
+
+        >
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:id="@+id/sinup_button"
+
+
+            android:onClick="button_sinup"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="sign up"
+          android:textSize="20dp"
+          android:textStyle="bold"
+          android:layout_gravity="center"
+          />
+
+        </android.support.v7.widget.CardView>
+
+
+
+
+    </android.support.v7.widget.CardView>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="210.0176dp"
+        android:id="@+id/login_frag_layout"
+        android:orientation="vertical"
+
+        >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+  </RelativeLayout>
+</ScrollView>
+</LinearLayout>

@@ -1,0 +1,269 @@
+<resources>
+    <string name="app_name">InvestosureStart</string>
+<string name="login_text">Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
+
+
+</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_learn">LearnActivity</string>
+    <string name="main_heading_learn">ALL YOU NEED TO KNOW ABOUT MUTUAL FUNDS</string>
+    <string name="Concept_of_Mutual_Fund">Through investment in a mutual fund, an investor can get access to markets that may otherwise
+be unavailable to them and avail of the professional fund management services offered by an
+asset management company.</string>
+    <string name="Role_of_Mutual_Funds">Their primary role is to assist investors in earning an income or building their wealth, by
+participating in the opportunities available in various securities and markets. The money that is
+raised from investors, ultimately benefits governments, companies and other entities, directly
+or indirectly, to raise money for investing in various projects or paying for various expenses.</string>
+    _
+    <string name="Advantages_of_Mutual_Funds_for_Investors">Advantages of Mutual Funds for Investors</string>
+    <string name="Professional_Management">Mutual funds offer investors the opportunity to earn an income or build their wealth through
+professional management of their investible funds. There are several aspects to such
+professional management viz. investing in line with the investment objective, investing based
+on adequate research, and ensuring that prudent investment processes are followed.</string>
+    <string name="Affordable_Portfolio_Diversification">Investing in the units of a scheme provide investors the exposure to a range of securities held in
+the investment portfolio of the scheme in proportion to their holding in the scheme. Thus, even
+a small investment of ₹500 in a mutual fund scheme can give investors proportionate
+ownership in a diversified investment portfolio.</string>
+    <string name="Economies_of_Scale">Pooling of large sum of money from many investors makes it possible for the mutual fund to
+engage professional managers for managing investments. Individual investors with small
+amounts to invest cannot, by themselves, afford to engage such professional management.</string>
+    <string name="Liquidity">Investors in a mutual fund scheme can recover the current value of the money invested, from
+the mutual fund itself. Depending on the structure of the mutual fund scheme, this would be
+possible, either at any time, or during specific intervals, or only on closure of the scheme.</string>
+    <string name="Tax_Deferral">Mutual funds offer options, whereby the investor can let the money grow in the scheme for several years. By selecting such options, it is possible for the investor to defer the tax liability.
+This helps investors to legally build their wealth faster than would have been the case, if they
+were to pay tax on the income each year.</string>
+    <string name="Tax_benefits">Specific schemes of mutual funds (Equity Linked Savings Schemes) give investors the benefit of
+deduction of the amount subscribed (up to ₹150,000 in a financial year), from their income that
+is liable to tax. This reduces their taxable income, and therefore the tax liability.</string>
+    <string name="Convenient_Options">The options offered under a scheme allow investors to structure their investments in line with
+their liquidity preference and tax position. There is also great transaction conveniences like the
+ability to withdraw only part of the money from the investment account, ability to invest
+additional amount to the account, setting up systematic transactions, etc.</string>
+    <string name="Investment_Comfort">Once an investment is made with a mutual fund, they make it convenient for the investor to make
+further purchases with very little documentation. This simplifies subsequent investment activity.</string>
+    <string name="Regulatory_Comfort">The regulator, Securities and Exchange Board of India (SEBI), has mandated strict checks and
+balances in the structure of mutual funds and their activities. Mutual fund investors benefit
+from such protection.</string>
+    <string name="Systematic_Approach_to_Investments">Mutual funds also offer facilities that help investor invest amounts regularly through a
+Systematic Investment Plan (SIP); or withdraw amounts regularly through a Systematic
+Withdrawal Plan (SWP); or move money between different kinds of schemes through a
+Systematic Transfer Plan (STP).</string>
+    <string name="On_the_basis_of_when_an_investor_can_enter_or_exit_from_the_scheme">On the basis of when an investor can enter or exit from the scheme</string>
+    <string name="Open_ended_funds">Open-ended funds are open for investors to enter or exit at any time, even after the NFO.
+When existing investors acquire additional units or new investors acquire units from the open-
+ended scheme, it is called a sale transaction. It happens at a sale price, which is linked to the
+NAV.</string>
+    <string name="Close_ended_funds">Close-ended funds have a fixed maturity. Investors can buy units of a close-ended scheme, from
+the fund, only during its NFO. The fund makes arrangements for the units to be traded, post-
+NFO in a stock exchange. This is done through listing of the scheme in a stock exchange.</string>
+    <string name="Interval_funds">Interval funds combine features of both open-ended and close-ended schemes. They are
+largely close-ended, but become open-ended at pre-specified intervals.</string>
+    <string name="Actively_managed">Actively managed funds are funds where the fund manager has the flexibility to choose the
+investment portfolio, within the broad parameters of the investment objective of the scheme.
+Since this increases the role of the fund manager, the expenses for running the fund turn out to
+be higher. Investors expect actively managed funds to perform better than the market.</string>
+    <string name="Passive_funds">Passive funds invest on the basis of a specified index, whose performance it seeks to track.
+Thus, a passive fund tracking the S&amp;P BSE Sensex would buy only the shares that are part of the
+composition of the S&amp;P BSE Sensex. The performance of these funds tends to mirror the
+concerned index.</string>
+    <string name="Exchange_Traded_Funds">Exchange Traded Funds (ETFs) are also passive funds whose portfolio replicates an index or
+benchmark such as an equity market index or a commodity index. The units are issued to the
+investors in a new fund offer (NFO) after which they are available for sale and purchase on a
+stock exchange.</string>
+    <string name="Equity_Funds">Equity funds invest in equity instruments issued by companies. The funds target long-term
+appreciation in the value of the portfolio from the gains in the value of the securities held and
+the dividends earned on it. These funds can be categorized based on the type of equity shares
+that are included in the portfolio and the strategy or style adopted by the fund manager to pick
+the securities and manage the portfolio.</string>
+    <string name="Diversified_Equity_Funds">Diversified equity fund is a category of funds that invest in a diverse mix of securities
+that cut across sectors and market capitalization. The risk of the fund’s performance
+being significantly affected by the poor performance of one sector or segment is low.</string>
+    <string name="Market_Segment_Based_Funds">Market Segment based funds invest in companies of a particular market size. Equity
+stocks may be segmented based on market capitalization as large- cap, mid-cap and
+small-cap stocks.</string>
+    <string name="Sector_Funds">Sector funds invest in only a specific sector. For example, a banking sector fund will
+invest in only shares of banking companies. Gold sector fund will invest in only shares of
+gold-related companies.</string>
+    <string name="Thematic_Funds">Thematic funds invest in line with an investment theme. For example, an infrastructure
+thematic fund might invest in shares of companies that are into infrastructure construction, infrastructure toll-collection, cement, steel, telecom, power etc. The
+investment is thus more broad-based than a sector fund; but narrower than a diversified
+equity fund and still has the risk of concentration.</string>
+    <string name="Equity_Income_Dividend_Yield_Funds">Equity Income/Dividend Yield Schemes invest in securities whose shares fluctuate less,
+and the dividend represents a larger proportion of the returns on those shares. They
+represent companies with stable earnings but not many opportunities for growth or
+expansion.</string>
+    <string name="Value_fund">Value Funds invest in shares of fundamentally strong companies that are currently
+under-valued in the market with the expectation of benefiting from an increase in price
+as the market recognizes the true value. Such funds have lower risk. They require a
+longer investment horizon for the strategy to play out.</string>
+    <string name="Growth_Funds">Such portfolios feature companies whose earnings are expected to grow at a rate higher
+than the average rate. These funds aim at providing capital appreciation to the investors
+and provide above average returns in bullish markets. The volatility in returns is higher
+in such funds.</string>
+    <string name="Focused_funds">Such funds hold portfolios concentrated in a limited number of stocks. Selection risks
+are high in such funds. If the fund manager selects the right stocks then the strategy
+pays off. If even a few of the stocks do not perform as expected the impact on the
+scheme’s returns can be significant as they constitute a large part of the portfolio.</string>
+    <string name="Equity_Linked_Savings_Schemes_ELSS">Equity Linked Savings Schemes (ELSS) are diversified equity funds that offer tax benefits
+to investors under section 80 C of the Income Tax Act up to an investment limit of
+₹150,000 a year. ELSS are required to hold at least 80 percent of its portfolio in equity
+instruments. The investment is subject to lock-in for a period of 3 years during which it
+cannot be redeemed, transferred or pledged. However, this is subject to change in case
+there are any amendments in the ELSS Guidelines with respect to the lock-in period.</string>
+    <string name="Debt_Funds">Debt represents the borrowings of the issuer. Debt as an asset class represents an income-
+oriented asset. The major source of return from a debt instrument is regular income in the form
+of interest. The interest is typically known at the time of issue and may be guaranteed either by
+an undertaking of the government or by security created on the physical assets of the issuer. Debt funds can be categorized on the basis of the type of debt securities they invest in. The
+distinction can be primarily on the basis of the tenor of the securities—short term or long term,
+and the issuer: government, corporate, PSUs and others.</string>
+    <string name="Gilt_Funds">Gilt funds invest in only treasury bills and government securities, which do not have
+a credit risk (i.e. the risk that the issuer of the security defaults). These securities pay
+a lower coupon or interest to reflect the low risk of default associated with them</string>
+    <string name="Corporate_Bond_Funds">Corporate bond funds invest in debt securities issued by companies, including PSUs.
+There is a credit risk associated with the issuer that is denoted by the credit rating
+assigned to the security. Such bonds pay a higher coupon income to compensate for
+the credit risk associated with them.</string>
+    <string name="Liquid_schemes">They are a variant of debt schemes that invest only in short term debt securities.
+They can invest in debt securities of up to 91 days maturity. However, securities in
+the portfolio having maturity of more than 60-days need to be valued at market.</string>
+    <string name="Short_term_debt_schemes">These invest in securities with short tenors that have low interest rate risk of
+significant changes in the value of the securities. Ultra-short term debt funds, short-
+term debt funds, short-term gilt funds are some of the funds in this category. The
+contribution of interest income and the gain/loss in the value of the securities and
+the volatility in the returns from the fund will vary depending upon the tenor of the
+securities included in the portfolio.</string>
+    <string name="Ultra_short_term_plans">These are also known as treasury management funds, or cash management funds.
+They invest in money market and other short term securities of maturity upto 365
+days. The objective is to generate a steady return, mostly coming from accrual of interest income, with minimal NAV volatility.</string>
+    <string name="Short_Term_Plans">These combine short term debt securities with a small allocation to longer term debt
+securities. Short term plans earn interest from short term securities and interest and
+capital gains from long term securities. Fund managers take a call on the exposure to
+long term securities based on their view for interest rate movements.</string>
+    <string name="Long_term_debt_schemes">Long-term debt schemes such as Gilt funds and Income funds invest in longer-term
+securities issued by the government and other corporate issuers. The returns from
+these schemes are significantly impacted by changes in the value of the securities
+and therefore see greater volatility in the returns.</string>
+    <string name="Diversified_debt_funds_or_Income_fund">These invest in a mix of government and non-government debt securities such as
+corporate bonds, debentures and commercial paper. The corporate bonds earn
+higher coupon income on account of the credit risks associated with them. The
+government securities are held to meet liquidity needs and to exploit opportunities
+to capital gains arising from interest rate movements.</string>
+    <string name="Junk_bond_schemes_or_high_yield_bond_schemes">These invest in securities that have a lower credit rating indicating poor credit
+quality. Such schemes operate on the premise that the attractive returns offered by
+the investee companies makes up for the losses arising out of a few companies
+defaulting.</string>
+    <string name="Dynamic_debt_funds">These are flexible in terms of the type of debt securities held and their tenors. They
+do not focus on long or short term securities or any particular category of issuer but
+look for opportunities to earn income and capital gains across segments of the debt
+market. Duration of these portfolios are not fixed, but are dynamically managed. If
+the manager believes that interest rates could move up, the duration of the
+portfolio is reduced and vice versa.</string>
+    <string name="Fixed_maturity_plans">These are a kind of debt fund where the duration of the investment portfolio is
+closely aligned to the maturity of the scheme. AMCs tend to structure the scheme
+around pre-identified investments.</string>
+    <string name="Floating_rate_funds">These invest largely in floating rate debt securities i.e. debt securities where the
+interest rate payable by the issuer changes in line with the market.</string>
+    <string name="Hybrid_Funds">Hybrid funds invest in a combination of asset classes such as equity, debt and gold. The
+combination of asset classes used will depend upon the investment objective of the fund. The
+risk and return in the scheme will depend upon the allocation to each asset class and the type
+of securities in each asset class that are included in the portfolio</string>
+    <string name="Debt_oriented_Hybrid_funds">These invest primarily in debt with a small allocation to equity. The equity allocation can
+range from 5 percent to 30 percent and is stated in the offer document. The debt
+component is conservatively managed to earn coupon income, while the equity
+component provides the booster to the returns.</string>
+    <string name="Multiple_Yield_Funds">These generate returns over the medium term with exposure to multiple asset classes,
+such as equity and debt.</string>
+    <string name="Equity_oriented_Hybrid">Such funds invest primarily in equity, with a portion of the portfolio invested in debt to
+bring stability to the returns. A very popular category among the equity-oriented hybrid
+funds is the Balanced Fund. These schemes provide investors simultaneous exposure to
+both equity and debt in one portfolio.</string>
+    <string name="Capital_Protected_Schemes">These are close-ended schemes, which are structured to ensure that investors get their
+principal back, irrespective of what happens to the market. This is ideally done by
+investing in Zero Coupon Government Securities whose maturity is aligned to the
+scheme’s maturity.</string>
+    <string name="Arbitrage_funds">These take opposite positions in different markets / securities, such that the risk is
+neutralized, but a return is earned. For instance, by buying a share in BSE, and
+simultaneously selling the same share in the NSE at a higher price. Most arbitrage funds
+take contrary positions between the equity market and the futures and options market.
+These are designed to help investors to take positions or protect their risk in some other
+security, such as an equity share. They are traded in exchanges like</string>
+    <string name="Why_life_insurance_is_indispensable_for_your_portfolio">It’s good to think about savings but it is wiser to keep in mind the uncertainties in life. Wouldn’t you like your loved ones to be taken care of even when you are not there?
+Life Insurance acts as a safety net and covers the financial interests of the people dependent on the life assured. </string>
+    <string name="Insurance">Insurance is an agreement between an individual (Policy holder) and the insurance company (insurer) where the Policy holder agrees to pay premiums on regular intervals in return to an assurance by the insurer to pay the sum assured in case of death of the life assured. </string>
+    <string name="IRDA">The Insurance Regulatory and Development Authority of India is an autonomous, statutory body tasked with regulating and promoting the insurance and re-insurance industries in India</string>
+    <string name="Premium">The amount of money paid by the Policy holder under the policy’s terms and conditions is called the premium. It could be monthly or annual.</string>
+    <string name="Sum_Assured">The sum of money ensured by the insurer that he will pay in case of death of the life assured is referred to as sum assured.</string>
+    <string name="Life_Assured">The individual whose life is assured by the respective life insurance policy.</string>
+    <string name="Policy_Term">The period of time for which the Policy holder agrees to pay the premiums of the policy. In most of the cases it is same as the time for which the life of the policy holder is assured.</string>
+    <string name="Premium_Payment_term">The period of time for which life of the life assured is insured under the insurance policy.</string>
+    <string name="Free_look">A free look period is a period of time in which a new life insurance policy owner can terminate the policy without penalties, such as surrender charges. In India, according to IRDA regulations, Free look period of 15 days are given to the customers. The amount of premium to be refunded will be provided after making the following deductions: Proportionate risk premium for the coverage period
+Stamp duty charges
+Any expenses borne by the insurance company towards medical examination</string>
+
+    <string name="Kinds_of_Life_Insurance_available_in_the_market">Kinds of Life Insurance available in the market</string>
+    <string name="Term_Insurance">These are the insurance plans that provides financial coverage to the beneficiary by offering larger sum assured as compared to the annual premiums paid by the policyholder. This makes such plans very economical and affordable for most of the people. Through this plan, one can ensure financial stability to the nominee in case of any mishappening with the life assured. There are no maturity benefits with such plans. The key features of </string>
+    <string name="Term_Insurance_are">Get lump sum amount of sum assured in case of sudden death
+The entire sum assured is exempted from income tax under section 10(10D)
+Provide money so that your family continues to live with pride
+It also takes care of your finances in case of disability and critical illness.
+One can add many riders to enjoy additional benefits such as critical illness rider, total or permanent disability rider, accidental death benefit rider, hospital cash rider and waiver of premium rider</string>
+    <string name="ULIPs">Unit Linked Investment Plans is the combination of best parts from Insurance and Mutual Funds. The premiums collected are invested into different funds based on the risk apatite of the client. It also offers flexibility to switch the funds between different funds depending upon the market conditions. The performance of the fund is monitored by the NAV of the respective fund.</string>
+    <string name="Key_Features_of_ULIPs">Provides Transparent structure of investment with benefits of risk management
+Flexibility of switching funds
+Provides Life Cover in case of mishappening
+Different premium paying frequencies
+Various risk options
+Tax benefits under Sections 80C, 80D, 10(10D)
+Rider options available</string>
+    <string name="Endowment_Policy">The insurance policy that insures the life of the Policy holder for a fixed period. During this period, the Policy holder pays the periodic premiums and receives the pre-determined sum assured in case of the untimely death/maturity/end of policy</string>
+    <string name="They_are_mainly_of_two_types">Endowment with profit
+Endowment without profit => Term Insurance</string>
+    <string name="additional_benefits">It also offers additional benefits such as Terminal and Revisionary bonus. These bonuses are variable depending on the growth of the company and are given to with profit policy holders.</string>
+    <string name="Key_Features_of_Endowment_Policy">Sum assured is paid on both case ie. Death or maturity
+With and without plans are present hence, one can get affordable premiums
+Bonuses are given as additional benefits (Terminal and Revisionary)
+Premium paid are income tax free under section 80C
+Maturity benefits received under these plans are tax free under section 10(10D)
+One can take loans on the sum assured under this policy
+Have rider benefits</string>
+    <string name="Money_Back_Plans">This kind of Insurance plans provides live coverage and provides annual/monthly payouts that are very vital to overcome the financial urges at key stages of life. The policyholder starts getting these payouts in case of death or the maturity of the policy. The policy holder also gets survival bonus every year which he has survived, after few years of the beginning of the policy. Thus, the money back plan offers regular income along with a maturity benefit just like standard life insurance policies.</string>
+    <string name="Key_Features_of_Money_Back_Plan">Provides fixed income hence covers a huge range of financial urges of the policy holder.
+Offers flexibility to have the maturity benefits as a fixed income or lump sum
+Premium paid are income tax free under section 80C
+Maturity benefits received under these plans are tax free under section 10(10D)
+One can take loans on the sum assured under this policy
+Have rider benefits (some policies)</string>
+    <string name="What_is_Financial_Planning">Everyone has needs and aspirations. Most of these needs require a financial commitment. Providing for this commitment becomes a financial goal.
+For example, a father wants his son, who has just passed his 10th standard Board examinations, to become a doctor. This is an aspiration. In order to realize this, formal education expenses, coaching class expenses, hostel expenses and various other expenses need to be incurred over a number of years. The estimated financial commitments towards these expenses become financial goals.
+The needs or aspirations are a good starting point, but in order to plan, these need to be converted into financial goals. The financial goals must be defined in terms of time horizon and the amount of money required to fund the goal.
+Financial planning is a planned and systematic approach to provide for the financial goals that will help people realize their needs and aspirations, and be happy.</string>
+    <string name="The_Objective_of_Financial_Planning">The objective of financial planning is to ensure that the right amount of money is available at the right time to meet the various financial goals of the investor. This would help the investor realize his aspirations and experience happiness. It gives direction to the investor’s spending and saving habits.
+An objective of financial planning is also to let the investor know in advance, if some financial goal is not likely to be fulfilled.
+Thanks to advance information available through financial planning, timely corrective actions can be taken, such as:</string>
+    <string name="such_as">Reviewing what is a “need” and what is a “desire” that can be postponed for the more desirable objective of realizing the aspiration.
+Moving to a smaller house, or a house in a less expensive locality, to release more capital.
+Improving the future annual savings by economizing on expense, or taking up an extra part-time job, or influencing the spouse to take up employment for some time.
+Considering a loan to bridge the short fall in funds.</string>
+    <string name="The_Need_for_Financial_Planning">Most investors are either not organized, or lack the ability to make the calculations described above. A financial planner’s service is therefore invaluable in helping people realize their needs and aspirations.
+Even if the investor knows the calculations, the knowledge of how and where to invest may be lacking. The financial planner thus steps in to help the investor select appropriate financial products and invest in them.
+Transactions such as purchase of house or car, or even education, necessitate a borrowing. The financial planner can help the investor decide on the optimal source of borrowing and structure the loan arrangement with the lender.
+Taxation is another area that most investors are unclear about. Financial planners who are comfortable with the tax laws can therefore help the investor with tax planning, so as to optimize the tax outflows.
+Financial planners can also help investors in planning for contingencies. This could be through advice on insurance products, inheritance issues etc. The financial planner thus is in a position to advice investors on all the financial aspects of their life. </string>
+    <string name="Steps_to_create_a_Comprehensive_Financial_Plan">Steps to create a Comprehensive Financial Plan</string>
+    <string name="The_steps_in_creating_a_comprehensive_financial_plan_are_as_follows">Establish and Define the Client-Planner Relationship
+Gather Client Data, Define Client Goals
+Analyze and Evaluate Client’s Financial Status
+Develop and Present Financial Planning Recommendations and / or Options
+Implement the Financial Planning Recommendations
+Monitor the Financial Planning Recommendations</string>
+    <string name="comprehensive_financial">The comprehensive financial plan captures the estimated inflows from various sources, and estimated outflows for various financial goals, including post-retirement living expenses. The plan can go several decades into the future.
+A comprehensive financial plan calls for significantly more time commitment on the part of both the investor and the financial planner. However, the time commitment needs to be viewed as an investment in a long term relationship. </string>
+
+
+</resources>

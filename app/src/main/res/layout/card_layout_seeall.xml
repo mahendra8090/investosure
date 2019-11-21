@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="110sp"
+    android:id="@+id/card_view_seeall"
+
+    card_view:cardBackgroundColor="#FFFFFF"
+    card_view:cardCornerRadius="2dp"
+    card_view:cardElevation="2dp"
+    card_view:contentPadding="4dp"
+    android:foreground="?selectableItemBackground"
+    android:clickable="true"
+   android:layout_margin="10dp"
+    android:layout_marginBottom="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+      >
+
+      <RelativeLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colororange"
+            android:id="@+id/item_title_seeall"
+         android:text="example"
+            android:layout_alignParentTop="true"
+            android:textSize="22sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_detail_seeall"
+          android:text="sub example"
+            android:textSize="20sp"
+            android:layout_below="@+id/item_title_seeall"
+            />
+          <TextView
+              android:layout_width="wrap_content"
+              android:id="@+id/year"
+              android:layout_height="wrap_content"
+              android:layout_below="@+id/item_detail_seeall"
+              android:text="1 year"
+              android:textColor="@color/colorgray"
+             />
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/year"
+              android:layout_toRightOf="@+id/item_detail_seeall"
+              android:textColor="#000000"
+              android:layout_alignParentRight="true"
+              android:textAlignment="textEnd"
+              android:text="30%"/>
+      </RelativeLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
